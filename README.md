@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **zfuns/zfuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![访客](https://visitor-badge.glitch.me/badge?page_id=https://github.com/zfuns/zfuns)
+### Hi there ![访客](https://visitor-badge.glitch.me/badge?page_id=https://github.com/zfuns/zfuns)
 
 <a href="https://github.com/zfuns?tab=repositories">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=zfuns" />
